@@ -1,4 +1,4 @@
-//PRACTICA05
+//PRACTICA06
 //EDUARDO VELAZQUEZ 
 
 #include<iostream>
